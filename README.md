@@ -12,9 +12,9 @@ Tech Stack:
 3. Data Storage: JSON file
 4. UI: Jetpack Compose
 5. Dependency Injection: Hilt
-6. Coroutines: For managing background tasks!
+6. Coroutines: For managing background tasks
 
-[4](https://github.com/user-attachments/assets/113bc06e-ad14-4e36-957d-3ef95125743c)
+![4](https://github.com/user-attachments/assets/113bc06e-ad14-4e36-957d-3ef95125743c)
 ![3](https://github.com/user-attachments/assets/2c9846f8-55b6-415b-9d31-48b88b271746)
 ![2](https://github.com/user-attachments/assets/69f81b81-56b9-4ceb-8d35-a1caca0bc812)
 ![1](https://github.com/user-attachments/assets/f9d78807-c159-4e16-817e-c2530b96372d)
